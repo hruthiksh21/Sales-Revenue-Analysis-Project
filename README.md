@@ -7,8 +7,11 @@ Analyze sales data to identify trends, revenue growth patterns, and key insights
 Google Colab, Python (Pandas, Matplotlib, Seaborn)
 
 **Dataset:**  
-- Source: Your cleaned sales dataset CSV  
-- Rows/Columns
+- Source: Company sales records  
+- Rows/Columns: 10,000 rows × 15 columns  
+- Features: Date, Product, Region, Sales, Revenue, Profit  
+- Description: Monthly sales data for all products across different regions in 2024.
+
 
 **Steps Taken:**  
 1. Data Cleaning & Preprocessing  
@@ -33,8 +36,13 @@ Google Colab, Python (Pandas, Matplotlib, Seaborn)
 This analysis helps business stakeholders identify growth opportunities and make data-driven decisions.
 
 
+
+
+
+
 [Download the cleaned dataset]
 https://drive.google.com/file/d/1lU7tf3YPEUS_yY2MdNLDnENSQgvOdr39/view?usp=sharing
+
 
 
 
