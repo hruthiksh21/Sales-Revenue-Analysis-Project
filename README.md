@@ -31,7 +31,12 @@ The goal is to identify high-performing product categories, profitable regions, 
 ## Conclusion  
 - Focusing on Technology products in the West Region increases profitability.  
 - Reducing discounts can significantly improve profit margins.  
-- Regular performance tracking helps identify sales opportunities. 
+- Regular performance tracking helps identify sales opportunities.
+
+
+
+[Download the cleaned dataset]
+https://drive.google.com/file/d/1lU7tf3YPEUS_yY2MdNLDnENSQgvOdr39/view?usp=sharing
 
 
 
