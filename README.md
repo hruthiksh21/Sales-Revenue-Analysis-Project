@@ -19,8 +19,9 @@ Google Colab, Python (Pandas, Matplotlib, Seaborn)
 3. Insights & Recommendations  
 
 **Key Visualizations:**  
-![Revenue Trend](images/revenue_trend.png)  
-![Top Products by Sales](images/top_products.png)
+1. Revenue Trend
+2. Top Products by Sales
+3. Revenue by Region
 
 **Key Insights:**  
 - Highest revenue month: December 2024  
